@@ -77,4 +77,4 @@ sentiment-analysis-nlp/
 
 ---
 
-*Tugas NLP – Teknik Informatika*
+*Tugas NLP – Sistem Informasi*
