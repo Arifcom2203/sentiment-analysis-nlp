@@ -4,8 +4,9 @@
 
 | Field | Value |
 |-------|-------|
-| **Nama** | Arif Rahmat Riski |
-| **NIM**  | 24146092 |
+| **Nama**  | Arif Rahmat Riski |
+| **NIM**   | 24146092 |
+| **Kelas** | 02 |
 
 ---
 
@@ -40,7 +41,7 @@ sentiment-analysis-nlp/
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/<your-username>/sentiment-analysis-nlp.git
+   git clone https://github.com/Arifcom2203/sentiment-analysis-nlp.git
    cd sentiment-analysis-nlp
    ```
 
